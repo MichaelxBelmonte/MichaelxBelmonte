@@ -1,13 +1,10 @@
-# Michael
+# Michael 👾
 
-Tech enthusiast. Builder.
+Builder. Tech enthusiast.
 
-Currently working on **SoundBerry**, building AI models and tools that integrate them into real products.
+Currently building at **SoundBerry**, working on AI models and tools integrated into real products.
 
-I enjoy open-source games, creative tech, and experimenting with:
-- Python, JavaScript, C++
-- Node.js, Next.js
-- JUCE (audio)
-- AI models & tooling
+Interested in open-source games, creative tech, and AI experimentation.
 
-Always building.
+Python · JavaScript · C++ · Node · Next.js · JUCE
+
