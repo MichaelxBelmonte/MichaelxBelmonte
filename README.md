@@ -1,16 +1,13 @@
-## Hi there 👋
+# Michael
 
-<!--
-**MichaelxBelmonte/MichaelxBelmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech enthusiast. Builder.
 
-Here are some ideas to get you started:
+Currently working on **SoundBerry**, building AI models and tools that integrate them into real products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy open-source games, creative tech, and experimenting with:
+- Python, JavaScript, C++
+- Node.js, Next.js
+- JUCE (audio)
+- AI models & tooling
+
+Always building.
